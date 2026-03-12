@@ -16,18 +16,18 @@
 
 <div align="center">
   <h3>Authentication & Home</h3>
-  <img src="assets/screenshots/login.jpg" width="250" />
-  <img src="assets/screenshots/home.jpg" width="250" />
-  <img src="assets/screenshots/search.jpg" width="250" />
+  <img src="assets/screenshots/login.jpeg" width="250" />
+  <img src="assets/screenshots/home.jpeg" width="250" />
+  <img src="assets/screenshots/search.jpeg" width="250" />
   
   <h3>Ordering Flow</h3>
-  <img src="assets/screenshots/food_list.jpg" width="250" />
-  <img src="assets/screenshots/food_list_action.jpg" width="250" />
-  <img src="assets/screenshots/cart.jpg" width="250" />
+  <img src="assets/screenshots/food_list.jpeg" width="250" />
+  <img src="assets/screenshots/food_list_action.jpeg" width="250" />
+  <img src="assets/screenshots/cart.jpeg" width="250" />
   
   <h3>Management</h3>
-  <img src="assets/screenshots/cart_summary.jpg" width="250" />
-  <img src="assets/screenshots/profile.jpg" width="250" />
+  <img src="assets/screenshots/cart_summary.jpeg" width="250" />
+  <img src="assets/screenshots/profile.jpeg" width="250" />
 </div>
 
 ---
